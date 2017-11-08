@@ -2,14 +2,14 @@
 
 %% API
 -export([
-    create/1,
+    create/2,
     read/1,
     update/2,
     delete/1
 ]).
 
-create(Obj) ->
-    dummy:create(Obj).
+create(Key, Value) ->
+    dummy:create(Key, Value).
 
 read(Id) ->
     dummy:read(Id).
