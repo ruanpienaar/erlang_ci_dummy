@@ -1,0 +1,10 @@
+get coverage to work with coverdata
+improve example erlang application in this repo
+update old rebar2 files
+update old rebar3 files
+see what i need for the jenkins job xml
+create rebar2 template for all files ( code + jenkins + test )
+create rebar3 template for all files ( code + jenkins + test )
+write a simple application to test
+documentation 
+
